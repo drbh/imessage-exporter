@@ -1,5 +1,7 @@
 # Welcome to iMessage Exporter
 
+[![Join the chat at https://gitter.im/imessage-exporter/community](https://badges.gitter.im/imessage-exporter/community.svg)](https://gitter.im/imessage-exporter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Esstentailly this project takes a MacBook iMessage sqlite db, pulls all of your converstations, and pushes it to a JSON file into a secure S3 bucket.
 
 This way a user can access a snapshot of thier chat data from a cloud location they control.
